@@ -14,7 +14,7 @@ resource "aws_instance" "Harsh-Ubuntu-instance" {
   instance_type = var.instance_type
 
   tags = {
-    Name = "Nishant machine"
+    Name = "Harsh machine"
   }
 
 }
